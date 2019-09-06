@@ -1,0 +1,36 @@
+p.design{
+	
+	
+	border-style: groove;
+	border-color: black;
+	margin: 10px;
+	padding: 10px;
+	
+}
+
+div.desc {
+  padding: 15px;
+  color:red;
+  font-size:1.5em;
+  text-align: center; 
+}
+
+p.asdf{
+
+	 margin-left: 5px;
+	 background-blend-mode: saturation;
+	outline-style: solid;
+	outline-color: tomato;
+}
+
+.dfg{
+
+	 border-style: solid;
+	 margin: 6px;
+	 border-color: black;
+	 text-decoration: underline;
+
+}
+.margin{
+	margin: 5px;
+}
